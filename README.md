@@ -5,7 +5,7 @@
 ### Full-Stack Engineer | AI Systems Architect | LangGraph Specialist
 
 <p>
-  <a href="mailto:panwartarun684@gmail.com" target="_blank">
+  <a href="mailto:panwartarun684@gmail.com" >
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/tarun-panwar-b74460228" target="_blank">
