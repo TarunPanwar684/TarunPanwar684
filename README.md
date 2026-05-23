@@ -21,7 +21,7 @@
 
 **Building production-grade AI systems that scale.** Specializing in agentic workflows, RAG pipelines, and multi-agent orchestration at enterprise scale.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A67E&center=true&vCenter=true&width=500&lines=Production+AI+Systems;Multi-Agent+Orchestration;RAG+%2F+CRAG+Architectures;Full-Stack+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A67E&center=true&vCenter=true&width=500&lines=Production+AI+Systems;Multi-Agent+Orchestration;RAG+%2F+CRAG+Architectures" alt="Typing SVG" />
 
 </div>
 
@@ -33,7 +33,7 @@
 <tr>
 <td width="50%">
 
-Full-stack engineer with **2+ years** of hands-on experience shipping production AI systems at enterprise scale. I thrive at the intersection of **robust engineering (MERN)** and **cutting-edge agentic AI systems** — turning complex problems into scalable solutions.
+Full-stack engineer with **2+ years** of hands-on experience shipping production AI systems at enterprise scale. I thrive at the intersection of **robust engineering (MERN)** and **cutting-edge agentic AI**.
 
 **What I do:**
 - 🤖 Build intelligent multi-agent systems that actually work in production
@@ -186,7 +186,7 @@ JavaScript  ·  TypeScript  ·  Python  ·  C++
 
 ### 🤖 SearchUnify Agentic Suite
 
-Production multi-agent orchestration for enterprise support automation using LangGraph. Agents collaborate across ticket classification, knowledge retrieval, and intelligent escalation with context-aware handoffs.
+Production multi-agent orchestration for enterprise support automation using LangGraph. Agents collaborate across ticket classification, knowledge retrieval, and intelligent escalation with context awareness.
 
 **Stack:** LangChain · LangGraph · RAG/CRAG · Node.js
 
@@ -229,7 +229,7 @@ Enterprise-grade observability infrastructure using ELK Stack for production mon
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunPanwar684&theme=ambient_gradient&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=00A67E&text_color=E8E8E8&title_color=00A67E&stroke=00A67E)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunPanwar684&theme=ambient_gradient&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=00A67E&text_color=E8E8E8&title_color=00A67E)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPanwar684&theme=ambient_gradient&layout=compact&hide_border=true&bg_color=0D1117&text_color=E8E8E8&title_color=00A67E)
 
